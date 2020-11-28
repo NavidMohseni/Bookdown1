@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Track3/hermit"
+baseURL = "https://infallible-gates-1140fc.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Hugo Hermit"
